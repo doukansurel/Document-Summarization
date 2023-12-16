@@ -8,3 +8,5 @@
 * To Run the Program : 
 "streamlit run app.py"
 
+
+{%ss/1.png%}
