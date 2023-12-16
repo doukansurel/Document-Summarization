@@ -9,4 +9,4 @@
 "streamlit run app.py"
 
 
-![App İnterface](1.png)
+![App İnterface](/ss/1.png)
